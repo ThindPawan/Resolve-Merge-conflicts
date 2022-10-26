@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+I am doing the relsove merge conflict exercise.
+
+
+
